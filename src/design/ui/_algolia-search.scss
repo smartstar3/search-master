@@ -1,0 +1,31 @@
+.spec-filters__bages {
+    padding-bottom: 5px;
+}
+.spec-filters__bage {
+	position: relative;
+	display: block;
+    float: left;
+    line-height: 30px;
+    border-radius: $g-border-radius;
+    color: #FFF;
+    background: $c-brand-1-rich;
+	padding: 0 24px 2px 10px;
+    font-size: 16px;
+    margin: 2px 5px 3px 0;
+
+    .icon--close {
+    	cursor: pointer;
+	    position: absolute;
+	    right: .8em;
+	    top: 50%;
+	    margin-top: -6px;
+	    line-height: 12px;
+	    font-size: 10px;
+	    font-weight: bold;
+        opacity: .5;
+
+        &:hover {
+        	opacity: 1;
+        }
+    }
+}

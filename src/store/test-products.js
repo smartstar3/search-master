@@ -1,0 +1,161 @@
+export default [{
+    'name': 'Instagram Stories Seasons',
+    'description': 'Instagram Stories Seasons is a quick and dynamically animated After Effects template with 12 stylishly designed Instagram stories. This template contains 39 text placeholders and 12 media placeholders. A neat way to show off your portfolio, sports, fashion, vacations, birthdays, memories, food, friends and family photos. Impress your audience with this cool looking and creatively animated AE template. No plugins required.',
+    'audio_placeholder': null,
+    'free': false,
+    'owned_by_ma': false,
+    'slug': 'instagram-stories-seasons-199966',
+    'published_at': 1553156555,
+    'downloads': 40,
+    'requested': true,
+    'is_music': false,
+    'previews_files': [{
+        'label': 'webm low',
+        'format': 'webm',
+        'url': 'https://d1f2m3p6x2t7p9.cloudfront.net/preview-199966-UUwuk9eLAn-low.webm',
+        'url_fallback': 'http://ma-previews.s3.amazonaws.com/preview-199966-UUwuk9eLAn-low.webm'
+    }, {
+        'label': 'mp4 low',
+        'format': 'mpeg4',
+        'url': 'https://d1f2m3p6x2t7p9.cloudfront.net/preview-199966-UUwuk9eLAn-low.mp4',
+        'url_fallback': 'http://ma-previews.s3.amazonaws.com/preview-199966-UUwuk9eLAn-low.mp4'
+    }],
+    'placeholder_fallback': 'https://ma-portfolio.s3.amazonaws.com/preview-199966-UUwuk9eLAn-low_0018.jpg',
+    'placeholder': 'https://motionarray-portfolio.imgix.net/preview-199966-UUwuk9eLAn-low_0018.jpg?w=660&q=60&fit=max&auto=format',
+    'is_kick_ass': false,
+    'category': {
+        'id': 1,
+        'name': 'After Effects Templates',
+        'display_name': 'AE Templates',
+        'short_name': 'AE Templates',
+        'preview_type': 'video',
+        'slug': 'after-effects-templates'
+    },
+    'seller': { 'company_name': 'Motion_Pro', 'firstname': 'Andriy', 'lastname': 'Sholka', 'is_admin': false },
+    'tags': ['instagram', 'stories', 'seasons', 'instagram stories', 'special offer', 'seasonal discounts', 'upcoming sales', 'promotion', 'events', '​​'],
+    'categories': ['After Effects Templates', 'After Effects Templates > Photo / Video', 'After Effects Templates > Text'],
+    'id': '199966',
+    'collection_ids': [1,2],
+}, {
+    'seller_id': 72566,
+    'name': 'Colorful Corporate Infographic Pack 02',
+    'description': 'Colorful Corporate Infographic Pack 02 is a dynamic After Effects template that contains a neat and well-organized collection of infographic elements. They\'re so easy to use and they can be quickly added on to your presentations, slideshows, boardroom and shareholders meetings, conferences, promotions and events videos. Impress your audience with this professionally designed and elegantly animated AE template. Available in 4K.',
+    'audio_placeholder': null,
+    'free': false,
+    'owned_by_ma': false,
+    'slug': 'colorful-corporate-infographic-pack-02-196854',
+    'published_at': 1552659901,
+    'downloads': 40,
+    'requested': false,
+    'is_music': false,
+    'previews_files': [{
+        'label': 'webm low',
+        'format': 'webm',
+        'url': 'https://d1f2m3p6x2t7p9.cloudfront.net/preview-196854-SGSegeRgEy-low.webm',
+        'url_fallback': 'http://ma-previews.s3.amazonaws.com/preview-196854-SGSegeRgEy-low.webm'
+    }, {
+        'label': 'mp4 low',
+        'format': 'mpeg4',
+        'url': 'https://d1f2m3p6x2t7p9.cloudfront.net/preview-196854-SGSegeRgEy-low.mp4',
+        'url_fallback': 'http://ma-previews.s3.amazonaws.com/preview-196854-SGSegeRgEy-low.mp4'
+    }],
+    'placeholder_fallback': 'http://ma-previews.s3.amazonaws.com/preview-196854-SGSegeRgEy-low_0000.jpg',
+    'placeholder': 'https://motionarray.imgix.net/preview-196854-SGSegeRgEy-low_0000.jpg?w=660&q=60&fit=max&auto=format',
+    'is_kick_ass': true,
+    'category': {
+        'id': 1,
+        'name': 'After Effects Templates',
+        'display_name': 'AE Templates',
+        'short_name': 'AE Templates',
+        'preview_type': 'video',
+        'slug': 'after-effects-templates'
+    },
+    'seller': { 'company_name': 'vikiyo', 'firstname': 'Nuwan', 'lastname': 'Thilina', 'is_admin': false },
+    'tags': ['infographics', 'animated', 'bright', 'modern', 'corporate', 'business', 'company history', 'company figures', 'company overview', 'colorful'],
+    'categories': ['After Effects Templates', 'After Effects Templates > Text', 'After Effects Templates > Other'],
+    'id': '196854',
+    'collection_ids': [2,3],
+}, {
+    'seller_id': 195444,
+    'name': 'Modern Minimal Titles - Essential Graphic',
+    'description': 'Modern Minimal Titles is a brand new, original Essential Graphic (.mogrt) template for Premier Pro 2017 and higher. It includes titles, lower thirds, call-out titles, text boxes and bullet-lists and all of them are self-resizing. Just enter your text and every shape and motion will adjust itself for the text. Also you can change any color with few clicks. Version for Premier Pro 2019 also included, this give you an option to use your own fonts for text. Template comes in 4K. Good luck with your next project using this professionally made template.',
+    'audio_placeholder': null,
+    'free': false,
+    'owned_by_ma': false,
+    'slug': 'modern-minimal-titles-essential-graphic-200000',
+    'published_at': 1553175230,
+    'downloads': 39,
+    'requested': false,
+    'is_music': false,
+    'previews_files': [{
+        'label': 'webm low',
+        'format': 'webm',
+        'url': 'https://d1f2m3p6x2t7p9.cloudfront.net/preview-200000-hHo4rTF8ya-low.webm',
+        'url_fallback': 'http://ma-previews.s3.amazonaws.com/preview-200000-hHo4rTF8ya-low.webm'
+    }, {
+        'label': 'mp4 low',
+        'format': 'mpeg4',
+        'url': 'https://d1f2m3p6x2t7p9.cloudfront.net/preview-200000-hHo4rTF8ya-low.mp4',
+        'url_fallback': 'http://ma-previews.s3.amazonaws.com/preview-200000-hHo4rTF8ya-low.mp4'
+    }],
+    'placeholder_fallback': 'https://ma-portfolio.s3.amazonaws.com/preview-200000-hHo4rTF8ya-low_0016.jpg',
+    'placeholder': 'https://motionarray-portfolio.imgix.net/preview-200000-hHo4rTF8ya-low_0016.jpg?w=660&q=60&fit=max&auto=format',
+    'is_kick_ass': false,
+    'category': {
+        'id': 6,
+        'name': 'Motion Graphics Templates',
+        'display_name': 'MOGRT',
+        'short_name': 'MOGRT',
+        'preview_type': 'video',
+        'slug': 'motion-graphics-templates'
+    },
+    'seller': {
+        'company_name': 'MotionTiger',
+        'firstname': 'Кирилл',
+        'lastname': 'Комраков',
+        'is_admin': false
+    },
+    'tags': ['modern', 'minimal', 'titles', 'bullet-list', 'call-out titles', 'pattern', 'clean', 'text box', 'lower third', 'animated'],
+    'categories': ['Motion Graphics Templates', 'Motion Graphics Templates > Titles', 'Motion Graphics Templates > Lower Thirds'],
+    'id': '200000',
+    'collection_ids': [],
+}, {
+    'seller_id': 1646289,
+    'name': 'Titles V.4',
+    'description': 'Titles V.4 is a modern After Effects template with an extraordinary collection of 12 stylishly designed and dynamically animated full-screen title animations. A cool way to enhance the look and feel of your presentations, slideshows, TV shows, commercials, company broadcasts, intros, openers, promotions, events, Facebook and YouTube videos. Impress your audience with this clean looking and elegantly animated AE template. No plugins required.',
+    'audio_placeholder': null,
+    'free': false,
+    'owned_by_ma': false,
+    'slug': 'titles-v-4-200212',
+    'published_at': 1553251090,
+    'downloads': 36,
+    'requested': false,
+    'is_music': false,
+    'previews_files': [{
+        'label': 'webm low',
+        'format': 'webm',
+        'url': 'https://d1f2m3p6x2t7p9.cloudfront.net/preview-200212-uLBBxYRcFa-low.webm',
+        'url_fallback': 'http://ma-previews.s3.amazonaws.com/preview-200212-uLBBxYRcFa-low.webm'
+    }, {
+        'label': 'mp4 low',
+        'format': 'mpeg4',
+        'url': 'https://d1f2m3p6x2t7p9.cloudfront.net/preview-200212-uLBBxYRcFa-low.mp4',
+        'url_fallback': 'http://ma-previews.s3.amazonaws.com/preview-200212-uLBBxYRcFa-low.mp4'
+    }],
+    'placeholder_fallback': 'http://ma-previews.s3.amazonaws.com/preview-200212-uLBBxYRcFa-low_0001.jpg',
+    'placeholder': 'https://motionarray.imgix.net/preview-200212-uLBBxYRcFa-low_0001.jpg?w=660&q=60&fit=max&auto=format',
+    'is_kick_ass': false,
+    'category': {
+        'id': 1,
+        'name': 'After Effects Templates',
+        'display_name': 'AE Templates',
+        'short_name': 'AE Templates',
+        'preview_type': 'video',
+        'slug': 'after-effects-templates'
+    },
+    'seller': { 'company_name': 'Pixel', 'firstname': 'Nurbek', 'lastname': 'Zamirov', 'is_admin': false },
+    'tags': ['brand', 'corporate', 'title', 'lower thirds', 'minimal', 'motion', 'news', 'text animation', 'titles', 'typography', '​​'],
+    'categories': ['After Effects Templates', 'After Effects Templates > Text', 'After Effects Templates > Lower Thirds'],
+    'id': '200212',
+    'collection_ids': [],
+}]

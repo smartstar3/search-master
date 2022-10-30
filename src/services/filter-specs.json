@@ -1,0 +1,495 @@
+{
+  "categories": [
+    {
+      "slug": "motion-graphics-templates",
+      "name": "Motion Graphics Templates",
+      "has_resolutions": 1,
+      "has_bpms": 0,
+      "has_versions": 1,
+      "sub_categories": [
+        {
+          "slug": "titles",
+          "name": "Titles"
+        },
+        {
+          "slug": "transitions",
+          "name": "Transitions"
+        },
+        {
+          "slug": "overlays",
+          "name": "Overlays"
+        },
+        {
+          "slug": "backgrounds",
+          "name": "Backgrounds"
+        },
+        {
+          "slug": "free",
+          "name": "Free"
+        }
+      ],
+      "versions": [
+        {
+          "slug": "premiere-cc-20171",
+          "name": "Premiere CC 2017.1"
+        },
+        {
+          "slug": "premiere-cc-2018",
+          "name": "Premiere CC 2018"
+        }
+      ]
+    },
+    {
+      "slug": "premiere-pro-templates",
+      "name": "Premiere Pro Templates",
+      "has_resolutions": 1,
+      "has_bpms": 0,
+      "has_versions": 1,
+      "sub_categories": [
+        {
+          "slug": "edits",
+          "name": "Edits"
+        },
+        {
+          "slug": "toolkits",
+          "name": "Toolkits"
+        },
+        {
+          "slug": "transitions",
+          "name": "Transitions"
+        },
+        {
+          "slug": "titles",
+          "name": "Titles"
+        },
+        {
+          "slug": "logo",
+          "name": "Logo"
+        },
+        {
+          "slug": "free",
+          "name": "Free"
+        }
+      ],
+      "versions": [
+        {
+          "slug": "premiere-cc-2017",
+          "name": "Premiere CC 2017"
+        },
+        {
+          "slug": "premiere-cc-20171",
+          "name": "Premiere CC 2017.1"
+        },
+        {
+          "slug": "premiere-cc-2018",
+          "name": "Premiere CC 2018"
+        },
+        {
+          "slug": "premiere-cc-20153",
+          "name": "Premiere CC 2015.3"
+        }
+      ]
+    },
+    {
+      "slug": "premiere-pro-presets",
+      "name": "Premiere Pro Presets",
+      "has_resolutions": 1,
+      "has_bpms": 0,
+      "has_versions": 1,
+      "sub_categories": [
+        {
+          "slug": "text",
+          "name": "Text"
+        },
+        {
+          "slug": "transitions",
+          "name": "Transitions "
+        },
+        {
+          "slug": "overlays",
+          "name": "Overlays"
+        },
+        {
+          "slug": "photo-video",
+          "name": "Photo \/ Video"
+        },
+        {
+          "slug": "free",
+          "name": "Free"
+        }
+      ],
+      "versions": [
+        {
+          "slug": "premiere-cc-20153",
+          "name": "Premiere CC 2015.3"
+        },
+        {
+          "slug": "premiere-cc-2017",
+          "name": "Premiere CC 2017"
+        },
+        {
+          "slug": "premiere-cc-20171",
+          "name": "Premiere CC 2017.1"
+        },
+        {
+          "slug": "premiere-cc-2018",
+          "name": "Premiere CC 2018"
+        }
+      ]
+    },
+    {
+      "slug": "after-effects-templates",
+      "name": "After Effects Templates",
+      "has_resolutions": 1,
+      "has_bpms": 0,
+      "has_versions": 1,
+      "sub_categories": [
+        {
+          "slug": "photo-video",
+          "name": "Photo \/ Video"
+        },
+        {
+          "slug": "text",
+          "name": "Text"
+        },
+        {
+          "slug": "logos",
+          "name": "Logo"
+        },
+        {
+          "slug": "lower-thirds",
+          "name": "Lower Thirds"
+        },
+        {
+          "slug": "transitions",
+          "name": "Transitions"
+        },
+        {
+          "slug": "other",
+          "name": "Other"
+        },
+        {
+          "slug": "free",
+          "name": "Free"
+        }
+      ],
+      "versions": [
+        {
+          "slug": "after-effects-cs55",
+          "name": "After Effects CS5.5+"
+        },
+        {
+          "slug": "after-effects-cs6",
+          "name": "After Effects CS6+"
+        },
+        {
+          "slug": "after-effects-cc",
+          "name": "After Effects CC"
+        },
+        {
+          "slug": "after-effects-cc-2018",
+          "name": "After Effects CC 2018"
+        },
+        {
+          "slug": "after-effects-cs4",
+          "name": "After Effects CS4+"
+        },
+        {
+          "slug": "after-effects-cs5",
+          "name": "After Effects CS5+"
+        }
+      ]
+    },
+    {
+      "slug": "after-effects-presets",
+      "name": "After Effects Presets",
+      "has_resolutions": 1,
+      "has_bpms": 0,
+      "has_versions": 1,
+      "sub_categories": [
+        {
+          "slug": "text",
+          "name": "Text"
+        },
+        {
+          "slug": "photo-video",
+          "name": "Photo\/Video"
+        },
+        {
+          "slug": "free",
+          "name": "Free"
+        }
+      ],
+      "versions": [
+        {
+          "slug": "after-effects-cs4",
+          "name": "After Effects CS4+"
+        },
+        {
+          "slug": "after-effects-cs5",
+          "name": "After Effects CS5+"
+        },
+        {
+          "slug": "after-effects-cs55",
+          "name": "After Effects CS5.5+"
+        },
+        {
+          "slug": "after-effects-cs6",
+          "name": "After Effects CS6+"
+        },
+        {
+          "slug": "after-effects-cc",
+          "name": "After Effects CC"
+        },
+        {
+          "slug": "after-effects-cc-2018",
+          "name": "After Effects CC 2018"
+        }
+      ]
+    },
+    {
+      "slug": "stock-music",
+      "name": "Royalty Free Music",
+      "has_resolutions": 0,
+      "has_bpms": 1,
+      "has_versions": 0,
+      "sub_categories": [
+        {
+          "slug": "easy-listening",
+          "name": "Easy Listening"
+        },
+        {
+          "slug": "corporate",
+          "name": "Corporate"
+        },
+        {
+          "slug": "rock",
+          "name": "Rock"
+        },
+        {
+          "slug": "pop",
+          "name": "Pop"
+        },
+        {
+          "slug": "inspirational",
+          "name": "Inspirational"
+        },
+        {
+          "slug": "piano",
+          "name": "Piano"
+        },
+        {
+          "slug": "electronic",
+          "name": "Electronic"
+        },
+        {
+          "slug": "trailers",
+          "name": "Trailers"
+        },
+        {
+          "slug": "heavy",
+          "name": "Heavy"
+        },
+        {
+          "slug": "peaceful",
+          "name": "Peaceful"
+        },
+        {
+          "slug": "fun",
+          "name": "Fun"
+        },
+        {
+          "slug": "upbeat",
+          "name": "Upbeat"
+        },
+        {
+          "slug": "dance",
+          "name": "Dance"
+        },
+        {
+          "slug": "holiday",
+          "name": "Holiday"
+        },
+        {
+          "slug": "logos",
+          "name": "Logos "
+        },
+        {
+          "slug": "folk",
+          "name": "Folk"
+        },
+        {
+          "slug": "acoustic",
+          "name": "Acoustic"
+        },
+        {
+          "slug": "country",
+          "name": "Country"
+        }
+      ],
+      "versions": []
+    },
+    {
+      "slug": "sound-effects",
+      "name": "Sound Effects",
+      "has_resolutions": 0,
+      "has_bpms": 0,
+      "has_versions": 0,
+      "sub_categories": [
+        {
+          "slug": "movement-and-transitions",
+          "name": "Movement & Transitions"
+        },
+        {
+          "slug": "ui-and-buttons",
+          "name": "UI & Buttons"
+        },
+        {
+          "slug": "futuristic",
+          "name": "Futuristic"
+        },
+        {
+          "slug": "game",
+          "name": "Game"
+        }
+      ],
+      "versions": []
+    },
+    {
+      "slug": "stock-motion-graphics",
+      "name": "Stock Motion Graphics",
+      "has_resolutions": 1,
+      "has_bpms": 0,
+      "has_versions": 0,
+      "sub_categories": [
+        {
+          "slug": "backgrounds",
+          "name": "Backgrounds"
+        },
+        {
+          "slug": "transitions",
+          "name": "Transitions"
+        },
+        {
+          "slug": "framing-devices",
+          "name": "Framing Devices"
+        },
+        {
+          "slug": "overlays",
+          "name": "Overlays"
+        }
+      ],
+      "versions": []
+    },
+    {
+      "slug": "stock-video",
+      "name": "Stock Video",
+      "has_resolutions": 1,
+      "has_bpms": 0,
+      "has_versions": 0,
+      "sub_categories": [
+        {
+          "slug": "nature",
+          "name": "Nature"
+        },
+        {
+          "slug": "animals",
+          "name": "Animals"
+        },
+        {
+          "slug": "food",
+          "name": "Food"
+        },
+        {
+          "slug": "ink",
+          "name": "Ink"
+        },
+        {
+          "slug": "fire",
+          "name": "Fire"
+        },
+        {
+          "slug": "dust",
+          "name": "Dust"
+        },
+        {
+          "slug": "paint",
+          "name": "Paint"
+        },
+        {
+          "slug": "paper",
+          "name": "Paper"
+        },
+        {
+          "slug": "light",
+          "name": "Light"
+        },
+        {
+          "slug": "particles",
+          "name": "Particles"
+        },
+        {
+          "slug": "overlay",
+          "name": "Overlay"
+        },
+        {
+          "slug": "background",
+          "name": "Background"
+        }
+      ],
+      "versions": []
+    },
+    {
+      "slug": "davinci-resolve-templates",
+      "name": "DaVinci Resolve Templates",
+      "has_resolutions": 1,
+      "has_bpms": 0,
+      "has_versions": 1,
+      "sub_categories": [],
+      "versions": [
+        {
+          "slug": "davinci-resolve-15",
+          "name": "DaVinci Resolve 15"
+        }
+      ]
+    }
+  ],
+  "resolutions": [
+    {
+      "slug": "1920x1080-hd",
+      "name": "1920x1080 (HD)"
+    },
+    {
+      "slug": "2048x1556-2k",
+      "name": "2048x1556 (2K)"
+    },
+    {
+      "slug": "4096x2304-4k",
+      "name": "4096x2304 (4K)"
+    },
+    {
+      "slug": "3840x2160-4k",
+      "name": "3840x2160 (4K)"
+    },
+    {
+      "slug": "1280x720",
+      "name": "1280x720"
+    },
+    {
+      "slug": "1080x1920-vertical",
+      "name": "1080x1920 (Vertical)"
+    },
+    {
+      "slug": "1080x1080-square",
+      "name": "1080x1080 (Square)"
+    },
+    {
+      "slug": "7680x4320-8k",
+      "name": "7680x4320 (8K)"
+    },
+    {
+      "slug": "4096x2160-4k",
+      "name": "4096x2160 (4K)"
+    }
+  ]
+}
